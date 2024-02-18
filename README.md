@@ -19,3 +19,4 @@ Average Height (This is a program that calculates the average student height fro
 High score (This is a program that calculates the highest score from a List of scores. Although this is a very easy task with max and min functions we are not allowed to use the max or min functions in this code. This code also have a High score 2.0 more pythonic script).
 Adding even numbers (This is a program that calculates the sum of all the even numbers from 1 to X. If X is 100 then the first even number would be 2 and the last one is 100, in this case we have a more pythonic and slightly advanced script Adding even numbers 2.0 witch can get more inputs)
 FIZZBUZZ (This is a program that automatically prints the solution to the famouse FizzBuzz game. This one is very simple and basic code.)
+MORE TO COME
