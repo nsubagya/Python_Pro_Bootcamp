@@ -7,3 +7,5 @@ BMI and later BMI 2.0, developed version of BMI calculator (This is one of the s
 Life in weeks (This gives the number of weeks you are going to be on the planet earth assuming you will live 90 years, this is from Tim Urban - Your Life in Weeks article)
 Odd or even? (This is to check a number is odd or even number using if statments, int and print)
 Leap year (This program works out whether if a given year is a leap year. On every year that is divisible by 4 with no remainder, except every year that is evenly divisible by 100 with no remainder, unless the year is also divisible by 400 with no remainder. This code includes Leap year and Leap year 2.0 more pythonic code as well)
+Pizza order practice (This comes along with a more advanced pythonic Pizza order practice 2.0 version which can order more pizzas in same go. This is an automatic pizza order program. Based on a user's order, work out their final bill.)
+Love Calculator (This is a fun python script, This is a program that tests the compatibility between two people. To work out the love score between two people I used a well known BuzzFeed article).
